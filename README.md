@@ -99,7 +99,6 @@ Any hacking-related request will be politely refused.
 ```text
 ├── chatbot.py
 ├── README.md
-└── requirements.txt (optional)
 ```
 
 ---
@@ -135,6 +134,3 @@ Users must comply with **Google Generative AI policies**.
 **Abdul Sami Khan**
 Computer Systems Engineering Student
 IEEE UITU President
-
-```
-```
